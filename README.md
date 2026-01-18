@@ -11,6 +11,7 @@ I am a budding coder with a strong interest in Data Structures & Algorithms and 
 <div align="center">
   <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
 </div>
+
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=CHITRANSH1705&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)<br>
 ![](https://github-readme-stats.vercel.app/api?username=CHITRANSH1705&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
