@@ -1,5 +1,8 @@
 # 💫 About Me:
-Hi , I'm Chitransh Saxena  <br><br> - Computer Science student  <br> - Strong focus on DSA & Competitive Programming<br> - Cyber Security enthusiast exploring Web Security & CTFs  challenges  <br><br><br>
+I am a budding coder with a strong interest in Data Structures & Algorithms and cybersecurity, driven by curiosity and a desire to understand how systems work at their core. I am passionate about building a solid foundation in secure and efficient problem-solving while exploring the principles behind protecting digital systems.
+
+As I dive into areas such as DSA using Java, ethical hacking, secure coding practices, and threat analysis, I focus on strengthening my skills through hands-on practice, CTF challenges, and continuous learning. With a growth mindset and a problem-solver’s approach, I aim to contribute to creating secure, reliable, and resilient digital solutions.
+
 
 
 ## 🌐 Socials:
