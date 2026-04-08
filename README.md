@@ -19,5 +19,5 @@ I am a budding coder with strong interest in Data Structures & Algorithms and cy
 ![](https://github-readme-stats.vercel.app/api?username=CHITRANSH1705&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=CHITRANSH1705&theme=dark&hide_border=false)
 
-### ⬇️ Below are my contributed repo
+## ⬇️ Below are my contributed repo
 ![](https://github-contributor-stats.vercel.app/api?username=ChitranshSaxena1705&limit=5&theme=dark&combine_all_yearly_contributions=true)
