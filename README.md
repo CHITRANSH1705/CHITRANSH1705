@@ -3,7 +3,6 @@
 
 
 💫 About Me:
-
 I am a budding coder with strong interest in Data Structures & Algorithms and cybersecurity, driven by curiosity and desire to understand systems at their core. I focus on building a solid foundation in efficient problem-solving and secure coding through hands-on practice, CTF challenges, and continuous learning. With a growth mindset, I aim to contribute to secure, reliable, and resilient digital solutions.
 
 
