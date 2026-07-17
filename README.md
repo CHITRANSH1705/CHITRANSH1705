@@ -41,25 +41,6 @@ $ cat stack.txt
 
 </div>
 
-```
-$ ls projects/
-```
-
-<div align="center">
-
-![AI Security Platform](https://github-readme-stats.vercel.app/api/pin/?username=CHITRANSH1705&repo=ai-security-platform&theme=dark&title_color=00FF41&icon_color=00FF41&text_color=c9d1d9&bg_color=0D1117&border_color=00FF41)
-![RAM Sentinel](https://github-readme-stats.vercel.app/api/pin/?username=CHITRANSH1705&repo=RAM-Sentinel&theme=dark&title_color=00FF41&icon_color=00FF41&text_color=c9d1d9&bg_color=0D1117&border_color=00FF41)
-
-</div>
-
-> More work in progress: FARM ransomware-detection framework, a Three.js portfolio site,
-> BugHunter (bug bounty automation), and VOLCTL / WARDEN Chrome extensions.
-> <!-- Add pin cards for these once the repos are public — see note below the file. -->
-
-```
-$ ./stats.sh --user CHITRANSH1705
-```
-
 <div align="center">
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=CHITRANSH1705&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact&title_color=00FF41&icon_color=00FF41&text_color=c9d1d9&bg_color=0D1117&border_color=00FF41)
@@ -73,12 +54,8 @@ $ ./contributions.sh --animate
 ```
 
 <div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/CHITRANSH1705/CHITRANSH1705/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/CHITRANSH1705/CHITRANSH1705/output/github-contribution-grid-snake.svg" />
-  <img alt="contribution snake animation" src="https://raw.githubusercontent.com/CHITRANSH1705/CHITRANSH1705/output/github-contribution-grid-snake.svg" width="880" />
-</picture>
+  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
+</div>
 
 <!-- Renders after .github/workflows/snake.yml runs once and creates the "output" branch. -->
 
