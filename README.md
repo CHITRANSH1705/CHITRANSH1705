@@ -2,7 +2,7 @@
 <br><br>
 <div align="center">
 
-<img src="./assets/banner.svg" alt="chitransh@github terminal banner" width="880">
+<img src="./assets/banner.svg" alt="" width="880">
 
 </div>
 
