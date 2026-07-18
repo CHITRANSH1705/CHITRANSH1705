@@ -1,7 +1,6 @@
 <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="100%">
 <br><br>
 <div align="center">
-
 </div>
 
 ```
@@ -18,16 +17,9 @@ $ cat research/FARM.md
 
 <div align="center">
 
-<img src="./assets/research.svg" alt="FARM research card" width="880">
-
 </div>
 
 <div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=00FF41)](https://linkedin.com/in/chitransh-saxena17)
-[![HackerOne](https://img.shields.io/badge/HackerOne-000000?style=for-the-badge&logo=hackerone&logoColor=00FF41)](https://hackerone.com/optimus_98)
-[![Email](https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=00FF41)](mailto:chitranshsaxena1705@gmail.com)
-[![Instagram](https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=00FF41)](https://instagram.com/chitransh_saxena17)
 
 </div>
 
