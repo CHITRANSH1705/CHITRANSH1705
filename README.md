@@ -41,10 +41,6 @@ $ ./stats.sh --user CHITRANSH1705
 ![](https://streak-stats.demolab.com/?user=CHITRANSH1705&theme=dark&hide_border=false&background=0D1117&ring=00FF41&fire=00FF41&currStreakLabel=00FF41)
 
 </div>
-
-```
-$ ./contributions.sh --animate
-```
 <div align="center">
   <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
 </div>
