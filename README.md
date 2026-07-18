@@ -2,8 +2,6 @@
 <br><br>
 <div align="center">
 
-< width="880">
-
 </div>
 
 ```
