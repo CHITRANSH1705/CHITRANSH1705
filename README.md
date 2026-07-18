@@ -1,14 +1,12 @@
-<div align="center">
-</div>
 <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="100%">
 <br><br>
-- [x] Bug bounty hunting on HackerOne — Eternal program (Zomato / Blinkit / Hyperpure / District)
-- [x] Registered copyright — biometric wristband authentication system (LD-20260190722)
-- [ ] Security Engineering internship prep (AppSec, AI/LLM security, agentic tooling)
+<div align="center">
+<img src="./assets/banner.svg" alt="chitransh@github terminal banner" width="880">
+</div>
 
-```
-$ cat research/FARM.md
-```
+ Bug bounty hunting on HackerOne — Eternal program (Zomato / Blinkit / Hyperpure / District)
+ Registered copyright — biometric wristband authentication system (LD-20260190722)
+ Security Engineering internship prep (AppSec, AI/LLM security, agentic tooling)
 
 <div align="center">
 
