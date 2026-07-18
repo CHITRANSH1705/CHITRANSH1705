@@ -30,19 +30,6 @@ $ cat  Tech stack.yml
 | **Web & Data** | ![React](https://img.shields.io/badge/react-0d1117?style=flat-square&logo=react&logoColor=00FF41) ![FastAPI](https://img.shields.io/badge/fastapi-0d1117?style=flat-square&logo=fastapi&logoColor=00FF41) ![Neo4j](https://img.shields.io/badge/neo4j-0d1117?style=flat-square&logo=neo4j&logoColor=00FF41) ![MySQL](https://img.shields.io/badge/mysql-0d1117?style=flat-square&logo=mysql&logoColor=00FF41) ![MongoDB](https://img.shields.io/badge/mongodb-0d1117?style=flat-square&logo=mongodb&logoColor=00FF41) |
 | **Cloud & Tooling** | ![Google Cloud](https://img.shields.io/badge/google_cloud-0d1117?style=flat-square&logo=googlecloud&logoColor=00FF41) ![LaTeX](https://img.shields.io/badge/latex-0d1117?style=flat-square&logo=latex&logoColor=00FF41) |
 
-
-
-<div align="center">
-
-![AI Security Platform](https://github-readme-stats.vercel.app/api/pin/?username=CHITRANSH1705&repo=ai-security-platform&theme=dark&title_color=00FF41&icon_color=00FF41&text_color=c9d1d9&bg_color=0D1117&border_color=00FF41)
-![RAM Sentinel](https://github-readme-stats.vercel.app/api/pin/?username=CHITRANSH1705&repo=RAM-Sentinel&theme=dark&title_color=00FF41&icon_color=00FF41&text_color=c9d1d9&bg_color=0D1117&border_color=00FF41)
-
-</div>
-
-> More work in progress: FARM ransomware-detection framework, a Three.js portfolio site,
-> BugHunter (bug bounty automation), and VOLCTL / WARDEN Chrome extensions.
-> <!-- Add pin cards for these once the repos are public — see note below the file. -->
-
 ```
 $ ./stats.sh --user CHITRANSH1705
 ```
