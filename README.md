@@ -33,16 +33,8 @@ $ cat  Tech stack.yml
 ```
 $ ./stats.sh --user CHITRANSH1705
 ```
-
-
-
-
-$ echo "thanks for stopping by"
-> thanks for stopping by
-```
-
 <div align="center">
-
-![Profile views](https://komarev.com/ghpvc/?username=CHITRANSH1705&color=00FF41&style=flat-square&label=terminal+views)
-
+  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
 </div>
+
+
