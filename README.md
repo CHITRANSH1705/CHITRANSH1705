@@ -37,4 +37,5 @@ $ ./stats.sh --user CHITRANSH1705
   <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
 </div>
 
+You can check out my projects listed below.
 
