@@ -12,7 +12,7 @@ $ cat focus.log
 - [ ] Security Engineering internship prep (AppSec, AI/LLM security, agentic tooling)
 
 ```
-$ cat research/FARM.md
+
 ```
 
 <div align="center">
@@ -24,7 +24,7 @@ $ cat research/FARM.md
 </div>
 
 ```
-$ cat stack.yml
+$ cat  Tech stack.yml
 ```
 
 | | |
