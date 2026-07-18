@@ -2,36 +2,14 @@
 <br><br>
 <div align="center">
 
-<img src="./assets/banner.svg" alt="chitransh@github terminal banner" width="880">
-
-</div>
-
 ```
 $ cat focus.log
 ```
 
 - [x] Bug bounty hunting on HackerOne — Eternal program (Zomato / Blinkit / Hyperpure / District)
 - [x] Registered copyright — biometric wristband authentication system (LD-20260190722)
-- [ ] Security Engineering internship prep (AppSec, AI/LLM security, agentic tooling)
+- [ ] Security Engineering internshipp (AppSec, AI/LLM security, agentic tooling)
 
-```
-$ cat research/FARM.md
-```
-
-<div align="center">
-
-<img src="./assets/research.svg" alt="FARM research card" width="880">
-
-</div>
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=00FF41)](https://linkedin.com/in/chitransh-saxena17)
-[![HackerOne](https://img.shields.io/badge/HackerOne-000000?style=for-the-badge&logo=hackerone&logoColor=00FF41)](https://hackerone.com/optimus_98)
-[![Email](https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=00FF41)](mailto:chitranshsaxena1705@gmail.com)
-[![Instagram](https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=00FF41)](https://instagram.com/chitransh_saxena17)
-
-</div>
 
 ```
 $ cat stack.yml
