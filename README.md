@@ -52,16 +52,7 @@ $ ./stats.sh --user CHITRANSH1705
   <img alt="contribution snake animation" src="https://raw.githubusercontent.com/CHITRANSH1705/CHITRANSH1705/output/github-contribution-grid-snake.svg" width="880" />
 </picture>
 
-<!-- Renders after .github/workflows/snake.yml runs once and creates the "output" branch. -->
 
-</div>
-
-```
-$ tmux status-line
-[ IST · UTC+5:30 ]  [ UPES Dehradun ]  [ open to security engineering internships ]
-```
-
-```
 $ echo "thanks for stopping by"
 > thanks for stopping by
 ```
