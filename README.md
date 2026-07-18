@@ -34,18 +34,6 @@ $ cat  Tech stack.yml
 $ ./stats.sh --user CHITRANSH1705
 ```
 
-<div align="center">
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=CHITRANSH1705&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact&title_color=00FF41&icon_color=00FF41&text_color=c9d1d9&bg_color=0D1117&border_color=00FF41)
-![](https://github-readme-stats.vercel.app/api?username=CHITRANSH1705&theme=dark&hide_border=false&include_all_commits=true&count_private=true&title_color=00FF41&icon_color=00FF41&text_color=c9d1d9&bg_color=0D1117&border_color=00FF41)
-![](https://streak-stats.demolab.com/?user=CHITRANSH1705&theme=dark&hide_border=false&background=0D1117&ring=00FF41&fire=00FF41&currStreakLabel=00FF41)
-
-</div>
-<div align="center">
-  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
-</div>
-<div align="center">
-
 
 
 
