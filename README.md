@@ -11,10 +11,6 @@ $ cat focus.log
 - [x] Registered copyright — biometric wristband authentication system (LD-20260190722)
 - [ ] Security Engineering internship prep (AppSec, AI/LLM security, agentic tooling)
 
-```
-
-```
-
 <div align="center">
 
 </div>
@@ -34,9 +30,7 @@ $ cat  Tech stack.yml
 | **Web & Data** | ![React](https://img.shields.io/badge/react-0d1117?style=flat-square&logo=react&logoColor=00FF41) ![FastAPI](https://img.shields.io/badge/fastapi-0d1117?style=flat-square&logo=fastapi&logoColor=00FF41) ![Neo4j](https://img.shields.io/badge/neo4j-0d1117?style=flat-square&logo=neo4j&logoColor=00FF41) ![MySQL](https://img.shields.io/badge/mysql-0d1117?style=flat-square&logo=mysql&logoColor=00FF41) ![MongoDB](https://img.shields.io/badge/mongodb-0d1117?style=flat-square&logo=mongodb&logoColor=00FF41) |
 | **Cloud & Tooling** | ![Google Cloud](https://img.shields.io/badge/google_cloud-0d1117?style=flat-square&logo=googlecloud&logoColor=00FF41) ![LaTeX](https://img.shields.io/badge/latex-0d1117?style=flat-square&logo=latex&logoColor=00FF41) |
 
-```
-$ ls projects/
-```
+
 
 <div align="center">
 
