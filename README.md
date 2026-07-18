@@ -46,11 +46,7 @@ $ ./stats.sh --user CHITRANSH1705
 </div>
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/CHITRANSH1705/CHITRANSH1705/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/CHITRANSH1705/CHITRANSH1705/output/github-contribution-grid-snake.svg" />
-  <img alt="contribution snake animation" src="https://raw.githubusercontent.com/CHITRANSH1705/CHITRANSH1705/output/github-contribution-grid-snake.svg" width="880" />
-</picture>
+
 
 
 $ echo "thanks for stopping by"
