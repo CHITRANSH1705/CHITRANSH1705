@@ -2,9 +2,11 @@
 <br><br>
 <div align="center">
 </div>
+
 ```
 $ cat focus.log
 ```
+
 - [x] Bug bounty hunting on HackerOne — Eternal program (Zomato / Blinkit / Hyperpure / District)
 - [x] Registered copyright — biometric wristband authentication system (LD-20260190722)
 - [ ] Security Engineering internship prep (AppSec, AI/LLM security, agentic tooling)
