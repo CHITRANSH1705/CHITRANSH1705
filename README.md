@@ -2,7 +2,6 @@
 <br><br>
 <div align="center">
 </div>
-
 ```
 $ cat focus.log
 ```
