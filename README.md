@@ -5,6 +5,8 @@
 </div>
 <div align="center">
 ![Profile views](https://komarev.com/ghpvc/?username=CHITRANSH1705&color=00FF41&style=for-the-badge&label=PROFILE+VIEWS)
+  
+</div>
 </div>
 <img src="./assets/divider.svg" width="880">
 
