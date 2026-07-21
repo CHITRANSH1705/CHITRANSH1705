@@ -14,12 +14,13 @@ engineering roles.
 
 ### 🚀 About Me
 
-- 🎓 **Pursuing:** B.Tech (Hons.) in Computer Science, specializing in **Cybersecurity** at [UPES Dehradun](https://www.upes.ac.in/)
-- 🛡️ **Focus:** Application security, AI/LLM security evaluation, and memory forensics
-- 🌱 **Currently:** Co-authoring **FARM** — an IEEE paper on KNN-based ransomware detection via memory forensics
-- 💼 **Working on:** Manual bug bounty hunting on HackerOne's **Eternal** program (Zomato / Blinkit / Hyperpure / District)
-- 📜 **Registered Copyright:** Biometric wristband authentication system (App No. LD-20260190722)
-  ![Profile views](https://komarev.com/ghpvc/?username=CHITRANSH1705&color=00FF41&style=for-the-badge&label=PROFILE+VIEWS)
+-  **Pursuing:** B.Tech (Hons.) in Computer Science, specializing in **Cybersecurity** at [UPES Dehradun](https://www.upes.ac.in/)
+-  **Focus:** Application security, AI/LLM security evaluation, and memory forensics
+-  **Currently:** Co-authoring **FARM** — an IEEE paper on KNN-based ransomware detection via memory forensics
+-  **Working on:** Manual bug bounty hunting on HackerOne's **Eternal** program (Zomato / Blinkit / Hyperpure / District)
+-  **Registered Copyright:** Biometric wristband authentication system (App No. LD-20260190722)
+- ![Profile views](https://komarev.com/ghpvc/?username=CHITRANSH1705&color=00FF41&style=for-the-badge&label=PROFILE+VIEWS)
+  
 
 
 <img src="./assets/divider.svg" width="880">
