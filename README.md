@@ -18,21 +18,12 @@ engineering roles.
 - 🌱 **Currently:** Co-authoring **FARM** — an IEEE paper on KNN-based ransomware detection via memory forensics
 - 💼 **Working on:** Manual bug bounty hunting on HackerOne's **Eternal** program (Zomato / Blinkit / Hyperpure / District)
 - 📜 **Registered Copyright:** Biometric wristband authentication system (App No. LD-20260190722)
-- 📫 **Reach me:** [LinkedIn](https://www.linkedin.com/in/chitransh17) 
--
 
-<img src="./assets/divider.svg" width="880">
 
-### 🌐 Connect with Me
 
-<div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=00FF41)](https://www.linkedin.com/in/chitransh17)
-[![HackerOne](https://img.shields.io/badge/HackerOne-000000?style=for-the-badge&logo=hackerone&logoColor=00FF41)](https://hackerone.com/optimus_98)
-[![TryHackMe](https://img.shields.io/badge/TryHackMe-000000?style=for-the-badge&logo=tryhackme&logoColor=00FF41)](https://tryhackme.com/p/chitranshsaxena)
-[![Email](https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=00FF41)](mailto:REPLACE_WITH_EMAIL)
 
-</div>
+
 
 <img src="./assets/divider.svg" width="880">
 
