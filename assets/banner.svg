@@ -1,0 +1,40 @@
+<svg width="900" height="280" viewBox="0 0 900 280" xmlns="http://www.w3.org/2000/svg" role="img">
+<title>chitransh@github terminal banner</title>
+<defs>
+<clipPath id="frame"><rect x="0" y="0" width="900" height="280" rx="12" ry="12"/></clipPath>
+<pattern id="scan" width="4" height="4" patternUnits="userSpaceOnUse">
+<rect width="4" height="1" fill="#00FF41" opacity="0.05"/>
+</pattern>
+</defs>
+<g clip-path="url(#frame)">
+<rect x="0" y="0" width="900" height="280" fill="#0d1117"/>
+<rect x="0" y="0" width="900" height="34" fill="#161b22"/>
+<circle cx="22" cy="17" r="6" fill="#ff5f56"/>
+<circle cx="44" cy="17" r="6" fill="#ffbd2e"/>
+<circle cx="66" cy="17" r="6" fill="#27c93f"/>
+<text x="450" y="21" text-anchor="middle" font-family="'SFMono-Regular',Consolas,monospace" font-size="13" fill="#8b949e">chitransh@github: ~</text>
+<rect x="0" y="34" width="900" height="246" fill="url(#scan)"/>
+<polygon points="222,165 186,227 114,227 78,165 114,103 186,103" fill="none" stroke="#00FF41" stroke-width="1.5" opacity="0.85"/>
+<polygon points="186,165 168,196 132,196 114,165 132,134 168,134" fill="none" stroke="#00FF41" stroke-width="1" opacity="0.45"/>
+<circle cx="222" cy="165" r="3" fill="#00FF41"/>
+<circle cx="186" cy="227" r="3" fill="#00FF41"/>
+<circle cx="114" cy="227" r="3" fill="#00FF41"/>
+<circle cx="78" cy="165" r="3" fill="#00FF41"/>
+<circle cx="114" cy="103" r="3" fill="#00FF41"/>
+<circle cx="186" cy="103" r="3" fill="#00FF41"/>
+<text x="150" y="172" text-anchor="middle" font-family="'SFMono-Regular',Consolas,monospace" font-size="26" font-weight="bold" fill="#00FF41">&gt;_</text>
+<text x="280" y="74" font-family="'SFMono-Regular',Consolas,monospace" font-size="16" font-weight="bold" fill="#00FF41">chitransh@github</text>
+<text x="280" y="92" font-family="'SFMono-Regular',Consolas,monospace" font-size="13" fill="#30363d">-----------------</text>
+<text x="280" y="114" font-family="'SFMono-Regular',Consolas,monospace" font-size="13"><tspan fill="#00FF41">OS: </tspan><tspan fill="#c9d1d9">Cybersecurity (B.Tech Hons, UPES Dehradun)</tspan></text>
+<text x="280" y="136" font-family="'SFMono-Regular',Consolas,monospace" font-size="13"><tspan fill="#00FF41">Shell: </tspan><tspan fill="#c9d1d9">python3 + bash</tspan></text>
+<text x="280" y="158" font-family="'SFMono-Regular',Consolas,monospace" font-size="13"><tspan fill="#00FF41">Role: </tspan><tspan fill="#c9d1d9">Security Researcher / Bug Bounty Hunter</tspan></text>
+<text x="280" y="180" font-family="'SFMono-Regular',Consolas,monospace" font-size="13"><tspan fill="#00FF41">HackerOne: </tspan><tspan fill="#c9d1d9">optimus_98</tspan></text>
+<text x="280" y="202" font-family="'SFMono-Regular',Consolas,monospace" font-size="13"><tspan fill="#00FF41">Research: </tspan><tspan fill="#c9d1d9">FARM - ransomware detection (IEEE, in prep)</tspan></text>
+<text x="280" y="224" font-family="'SFMono-Regular',Consolas,monospace" font-size="13"><tspan fill="#00FF41">Program: </tspan><tspan fill="#c9d1d9">Eternal (Zomato / Blinkit / District)</tspan></text>
+<text x="280" y="246" font-family="'SFMono-Regular',Consolas,monospace" font-size="13"><tspan fill="#00FF41">Theme: </tspan><tspan fill="#c9d1d9">Matrix [Dark]</tspan></text>
+<text x="280" y="268" font-family="'SFMono-Regular',Consolas,monospace" font-size="13" fill="#00FF41">$</text>
+<rect x="294" y="256" width="9" height="14" fill="#00FF41">
+<animate attributeName="opacity" values="1;1;0;0" keyTimes="0;0.5;0.5;1" dur="1s" repeatCount="indefinite"/>
+</rect>
+</g>
+</svg>

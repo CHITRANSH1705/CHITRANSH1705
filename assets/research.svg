@@ -1,0 +1,27 @@
+<svg width="900" height="230" viewBox="0 0 900 230" xmlns="http://www.w3.org/2000/svg" role="img">
+<title>FARM research card</title>
+<defs>
+<clipPath id="frame2"><rect x="0" y="0" width="900" height="230" rx="12" ry="12"/></clipPath>
+<pattern id="scan2" width="4" height="4" patternUnits="userSpaceOnUse">
+<rect width="4" height="1" fill="#00FF41" opacity="0.05"/>
+</pattern>
+</defs>
+<g clip-path="url(#frame2)">
+<rect x="0" y="0" width="900" height="230" fill="#0d1117"/>
+<rect x="0" y="0" width="900" height="34" fill="#161b22"/>
+<circle cx="22" cy="17" r="6" fill="#ff5f56"/>
+<circle cx="44" cy="17" r="6" fill="#ffbd2e"/>
+<circle cx="66" cy="17" r="6" fill="#27c93f"/>
+<text x="450" y="21" text-anchor="middle" font-family="'SFMono-Regular',Consolas,monospace" font-size="13" fill="#8b949e">chitransh@github: ~/research</text>
+<rect x="0" y="34" width="900" height="196" fill="url(#scan2)"/>
+<rect x="20" y="50" width="3" height="160" fill="#00FF41" opacity="0.7"/>
+<rect x="746" y="48" width="124" height="26" rx="13" fill="none" stroke="#00FF41" stroke-width="1.2" opacity="0.85"/>
+<text x="808" y="65" text-anchor="middle" font-family="'SFMono-Regular',Consolas,monospace" font-size="11" fill="#00FF41">IEEE &#8226; IN PREP</text>
+<text x="46" y="70" font-family="'SFMono-Regular',Consolas,monospace" font-size="13"><tspan fill="#00FF41">paper: </tspan><tspan fill="#c9d1d9">FARM</tspan></text>
+<text x="46" y="98" font-family="'SFMono-Regular',Consolas,monospace" font-size="13"><tspan fill="#00FF41">subtitle: </tspan><tspan fill="#c9d1d9">KNN-based ransomware detection via memory forensics</tspan></text>
+<text x="46" y="126" font-family="'SFMono-Regular',Consolas,monospace" font-size="13"><tspan fill="#00FF41">authors: </tspan><tspan fill="#c9d1d9">Chitransh Saxena, Richa Kumari</tspan></text>
+<text x="46" y="154" font-family="'SFMono-Regular',Consolas,monospace" font-size="13"><tspan fill="#00FF41">advisor: </tspan><tspan fill="#c9d1d9">Dr. Akashdeep Bhardwaj</tspan></text>
+<text x="46" y="182" font-family="'SFMono-Regular',Consolas,monospace" font-size="13"><tspan fill="#00FF41">affiliation: </tspan><tspan fill="#c9d1d9">Centre for Cybersecurity, UPES Dehradun</tspan></text>
+<text x="46" y="210" font-family="'SFMono-Regular',Consolas,monospace" font-size="13"><tspan fill="#00FF41">status: </tspan><tspan fill="#c9d1d9">in preparation</tspan></text>
+</g>
+</svg>
