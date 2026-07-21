@@ -100,7 +100,7 @@ engineering roles.
 
 <div align="center">
 
-  ![Contribution snake example](https://github.com/<USERNAME>/<USERNAME>/blob/output/github-contribution-grid-snake.svg)
+  ![Contribution snake example](https://github.com/<CHITRANSH1705>/<CHITRANSH1705>/blob/output/github-contribution-grid-snake.svg)
 
 <!-- Renders once .github/workflows/snake.yml has run and created the "output" branch. -->
 
