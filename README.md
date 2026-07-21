@@ -95,10 +95,5 @@ engineering roles.
 
 </div>
 
-<img src="./assets/divider.svg" width="880">
-
-
-<div align="center">
-![Contribution snake example](https://github.com/<CHITRANSH1705>/<CHITRANSH1705>/blob/output/github-contribution-grid-snake.svg)
 
 
