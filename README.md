@@ -101,11 +101,8 @@ engineering roles.
 
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/CHITRANSH1705/CHITRANSH1705/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/CHITRANSH1705/CHITRANSH1705/output/github-contribution-grid-snake.svg" />
-  <img alt="contribution snake animation" src="https://raw.githubusercontent.com/CHITRANSH1705/CHITRANSH1705/output/github-contribution-grid-snake.svg" width="880" />
-</picture>
+## My Contribution snake
+![Contribution snake example](https://github.com/<USERNAME>/<USERNAME>/blob/output/github-contribution-grid-snake.svg)
 
 <!-- Renders once .github/workflows/snake.yml has run and created the "output" branch. -->
 
