@@ -3,7 +3,7 @@
 <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="100%">
 
 </div>
-
+![Profile views](https://komarev.com/ghpvc/?username=CHITRANSH1705&color=00FF41&style=for-the-badge&label=PROFILE+VIEWS)
 <img src="./assets/divider.svg" width="880">
 
 I'm a final-year B.Tech (Hons.) Computer Science student specializing in Cybersecurity at UPES
@@ -18,11 +18,6 @@ engineering roles.
 - 🌱 **Currently:** Co-authoring **FARM** — an IEEE paper on KNN-based ransomware detection via memory forensics
 - 💼 **Working on:** Manual bug bounty hunting on HackerOne's **Eternal** program (Zomato / Blinkit / Hyperpure / District)
 - 📜 **Registered Copyright:** Biometric wristband authentication system (App No. LD-20260190722)
-
-
-
-
-
 
 
 <img src="./assets/divider.svg" width="880">
@@ -88,11 +83,6 @@ engineering roles.
 
 ### 📈 GitHub Stats
 
-<div align="center">
-
-![Profile views](https://komarev.com/ghpvc/?username=CHITRANSH1705&color=00FF41&style=for-the-badge&label=PROFILE+VIEWS)
-
-</div>
 
 <div align="center">
 
