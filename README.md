@@ -95,15 +95,6 @@ engineering roles.
 
 </div>
 
-<div align="center">
-
-![SentriAI](https://github-readme-stats.vercel.app/api/pin/?username=CHITRANSH1705&repo=SentriAI-AI-Security-Evaluation-Threat-Intelligence-Platform&theme=dark&title_color=00FF41&icon_color=00FF41&text_color=c9d1d9&bg_color=0D1117&border_color=00FF41)
-![ChainCrypt](https://github-readme-stats.vercel.app/api/pin/?username=CHITRANSH1705&repo=ChainCrypt&theme=dark&title_color=00FF41&icon_color=00FF41&text_color=c9d1d9&bg_color=0D1117&border_color=00FF41)
-![0-Crack Forensic Tool](https://github-readme-stats.vercel.app/api/pin/?username=CHITRANSH1705&repo=0-Crack-Forensic-tool&theme=dark&title_color=00FF41&icon_color=00FF41&text_color=c9d1d9&bg_color=0D1117&border_color=00FF41)
-![RAM Sentinel](https://github-readme-stats.vercel.app/api/pin/?username=CHITRANSH1705&repo=RAM-Sentinel&theme=dark&title_color=00FF41&icon_color=00FF41&text_color=c9d1d9&bg_color=0D1117&border_color=00FF41)
-
-</div>
-
 <img src="./assets/divider.svg" width="880">
 
 ### 🐍 Contribution Graph
