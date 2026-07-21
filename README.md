@@ -97,21 +97,15 @@ engineering roles.
 
 <img src="./assets/divider.svg" width="880">
 
-### 🐍 Contribution Graph
 
 <div align="center">
 
-## My Contribution snake
-![Contribution snake example](https://github.com/<USERNAME>/<USERNAME>/blob/output/github-contribution-grid-snake.svg)
+  ![Contribution snake example](https://github.com/<USERNAME>/<USERNAME>/blob/output/github-contribution-grid-snake.svg)
 
 <!-- Renders once .github/workflows/snake.yml has run and created the "output" branch. -->
 
 </div>
 
 <img src="./assets/divider.svg" width="880">
-
-<div align="center">
-
-[![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&size=14&duration=4000&pause=2000&color=00FF41&center=true&vCenter=true&width=500&height=30&lines=%24+echo+%22thanks+for+stopping+by%22)](https://git.io/typing-svg)
 
 </div>
