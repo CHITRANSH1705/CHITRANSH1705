@@ -13,13 +13,13 @@ engineering roles.
 
 ### 🚀 About Me
 
-- 🎓 **Pursuing:** B.Tech (Hons.) in Computer Science, specializing in **Cybersecurity** at [UPES Dehradun](https://www.upes.ac.in/) (CGPA 8.63)
+- 🎓 **Pursuing:** B.Tech (Hons.) in Computer Science, specializing in **Cybersecurity** at [UPES Dehradun](https://www.upes.ac.in/)
 - 🛡️ **Focus:** Application security, AI/LLM security evaluation, and memory forensics
 - 🌱 **Currently:** Co-authoring **FARM** — an IEEE paper on KNN-based ransomware detection via memory forensics
 - 💼 **Working on:** Manual bug bounty hunting on HackerOne's **Eternal** program (Zomato / Blinkit / Hyperpure / District)
 - 📜 **Registered Copyright:** Biometric wristband authentication system (App No. LD-20260190722)
-- 📫 **Reach me:** [LinkedIn](https://www.linkedin.com/in/chitransh17) · [HackerOne](https://hackerone.com/optimus_98) · `[ADD EMAIL]`
-- ⚡ **Fun fact:** `[tell me one and I'll drop it in — chess / CTF war stories / anything]`
+- 📫 **Reach me:** [LinkedIn](https://www.linkedin.com/in/chitransh17) 
+-
 
 <img src="./assets/divider.svg" width="880">
 
